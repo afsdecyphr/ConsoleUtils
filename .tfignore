@@ -1,0 +1,9 @@
+# Ignored Directories
+.vs
+
+# Ignored File Types
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
